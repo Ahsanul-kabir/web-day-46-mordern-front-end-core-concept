@@ -1,0 +1,5 @@
+// basically idea gain
+d3 : https://www.chartjs.org/
+d3 ke ektu easy kore dise...nvd3
+nvd3 : https://nvd3.org/
+chart js : https://www.chartjs.org/
