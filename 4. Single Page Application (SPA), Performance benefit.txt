@@ -1,0 +1,9 @@
+link : https://www.bloomreach.com/en/blog/2018/07/what-is-a-single-page-application.html
+
+What is single page application and its benefits?
+
+Ans : A single-page application works in the browser and requires
+no page reloads and no extra time for waiting. The page doesn't need
+to be updated since content is downloaded automatically.
+We use these types of applications every day. Just think of Facebook or Trello.
+These are excellent examples of single-page apps.
