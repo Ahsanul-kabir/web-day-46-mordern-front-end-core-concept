@@ -1,0 +1,9 @@
+Web component, 4 types of component, identify component
+1. Repeting in pattern , ei rokom hole ami html likbo
+    ek jaigai ar seta ke bar bar use kore joto gula dorkar kore nibo
+
+2. Container component , onk gula small small unit ke ek sate kore ekta component hoy
+
+3. Different component ke miss-match/break-down kore o ami alada ekta Container banate pari.
+
+4. Just ekta unit onno karo sate er mil nai se akai 100 ei rokom.
